@@ -1,0 +1,23 @@
+{
+  "name": "grump_rpc",
+  "version": "1.0.0",
+  "description": "A cookie clicker like game for the game grumps using discord's RPC",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lilwiggy/GrumpyClicker.git"
+  },
+  "author": "John Wiggins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lilwiggy/GrumpyClicker/issues"
+  },
+  "homepage": "https://github.com/Lilwiggy/GrumpyClicker#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.8",
+    "electron": "^1.7.10"
+  }
+}

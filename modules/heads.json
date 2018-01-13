@@ -1,0 +1,114 @@
+{
+    "arin": {
+        "price": "0",
+        "purchased": "0"
+    },
+    "arin_drump": {
+        "price": "100",
+        "purchased": "0"
+    },
+    "arin_grep": {
+        "price": "300",
+        "purchased": "0"
+    },
+    "arin_kawaii": {
+        "price": "1000",
+        "purchased": "0"
+    },
+    "arin_st": {
+        "price": "200",
+        "purchased": "0"
+    },
+    "arin_wut": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "barry": {
+        "price": "100",
+        "purchased": "0"
+    },
+    "barry_st": {
+        "price": "200",
+        "purchased": "0"
+    },
+    "brian": {
+        "price": "300",
+        "purchased": "0"
+    },
+    "dan": {
+        "price": "0",
+        "purchased": "0"
+    },
+    "dan_jon": {
+        "price": "2000",
+        "purchased": "0"
+    },
+    "dan_st": {
+        "price": "200",
+        "purchased": "0"
+    },
+    "dan_kawaii": {
+        "price": "1000",
+        "purchased": "0"
+    },
+    "dan_drump": {
+        "price": "100",
+        "purchased": "0"
+    },
+    "dan_grep": {
+        "price": "300",
+        "purchased": "0"
+    },
+    "dan_rage": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "dan_sad": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "dan_screaming": {
+        "price": "1000",
+        "purchased": "0"
+    },
+    "holly": {
+        "price": "100",
+        "purchased": "0"
+    },
+    "jirard": {
+        "price": "200",
+        "purchased": "0"
+    },
+    "jon": {
+        "price": "1000",
+        "purchased": "0"
+    },
+    "matt": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "suzy": {
+        "price": "200",
+        "purchased": "0"
+    },
+    "ross_st": {
+        "price": "120",
+        "purchased": "0"
+    },
+    "mark": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "ray": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "suzy_st": {
+        "price": "500",
+        "purchased": "0"
+    },
+    "kevin": {
+        "price": "500",
+        "purchased": "0"
+    }
+}
