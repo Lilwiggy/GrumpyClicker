@@ -39,7 +39,7 @@ function update() {
 }
 
 client.on('ready', () => {
-    console.log('Done didily doing it!');
+    console.log('GrumpyClicker RPC working!');
     update();
     setInterval(() => {
         update();
