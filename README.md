@@ -4,7 +4,7 @@ A cookie clicker like game that is game grumps themed using Discord's RPC
 
 
 <h1>How to install????</h1>
-<h3>Well you're gonna need <a href="https://nodejs.org/en/">Node.Js</a> installed for this to work.
+<h3>Well you're gonna need <a href="https://nodejs.org/en/">Node.Js</a> and <a href="https://git-scm.com/downloads">Git</a> installed for this to work.
 <br>
 Once you have it installed you can click that green button in the top right of this screen that says "clone or download" and hit download zip.
 <br>
