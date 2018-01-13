@@ -12,7 +12,7 @@ Once you have the zip file extract the contents into a folder on your PC.
 <br>
 Once you have the folder with the file called "package.json" in it, open up a command prompt or terminal in that directory.
 <br>
-You can do this on windows by hitting the windows key and R at the same time and typing in "cmd" and hitting enter. Then you type "cd Desktop/Grump_RPC" into command prompt. (assuming you put the folder on your desktop)
+You can do this on windows by hitting the windows key and R at the same time and typing in "cmd" and hitting enter. Then you type "cd Desktop/folder_contents_are_in" into command prompt. (assuming you put the folder on your desktop)
 <br>
 Once you have done this type "npm install" into command propmpt.
 <br>
