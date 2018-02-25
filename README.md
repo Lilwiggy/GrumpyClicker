@@ -17,7 +17,9 @@ You can do this on windows by hitting the windows key and R at the same time and
 Once you have done this type `npm install` into command propmpt.
 
 Once that has finished you can simply type `npm start` into command prompt to play the game.
-<h1>Linux install(the good one)</h1>
+<br>
+<b>Linux install(the good one)</b>
+<br>
 Open the terminal and go to your desired location 
 type in `git clone https://github.com/Lilwiggy/GrumpyClicker.git`
 after that go into the directory `cd GrumpyClicker`
